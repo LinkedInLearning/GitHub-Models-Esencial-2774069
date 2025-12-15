@@ -1,0 +1,25 @@
+{
+  "name": "mi-proyecto-ia",
+  "version": "1.0.0",
+  "description": "mi proyecto IA",
+  "homepage": "https://github.com/soycarlossolis/mi-proyecto-IA#readme",
+  "bugs": {
+    "url": "https://github.com/soycarlossolis/mi-proyecto-IA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soycarlossolis/mi-proyecto-IA.git"
+  },
+  "license": "ISC",
+  "author": "Carlos Solis",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=.env  src/conecta_ia.js "
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "^1.10.0",
+    "openai": "^6.10.0"
+  }
+}
