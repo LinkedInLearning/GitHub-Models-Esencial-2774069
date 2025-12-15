@@ -16,7 +16,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --env-file=.env  src/conecta_ia.js "
+    "start": "node --env-file=.env  src/conecta_ia.js ",
+    "start:mistral": "node --env-file=.env  src/conecta_ia_mistral.js "
   },
   "dependencies": {
     "@mistralai/mistralai": "^1.10.0",
