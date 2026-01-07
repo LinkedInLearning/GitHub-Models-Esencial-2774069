@@ -32,7 +32,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/github-models-esencial
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQET9FYxk-LMVA/learning-public-crop_675_1200/B4EZs1S_0FHcAY-/0/1766125731893?e=2147483647&v=beta&t=gj20PzDGpCuRUWXV8CYq3HlYfaU8e7SWEb0QdLuQezM
 
 [1]: # (End of ES-Instruction ###############################################################################################)
